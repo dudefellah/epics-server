@@ -20,4 +20,4 @@ You can avoid the detached mode just changing the -dit to -it to ensure that you
 
 After that you can use iarredondo/epics container to check if it is working properly.
 
-Just run the epics container and update the EPICS_CA_ADDR_LIST, then caget or camonitor what you want.
+Just run the epics container and update the ```EPICS_CA_ADDR_LIST```, then caget or camonitor what you want.
