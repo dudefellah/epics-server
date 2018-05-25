@@ -2,7 +2,7 @@
 
 Create a Dockerfile in your preferred folder
 ```
-FROM dudefellah/epics-server
+FROM iarredondo/epics-server
 ```
 Then run:
 ```
